@@ -1,7 +1,7 @@
 ### Hey there — I’m Rafael! 👋  
-London-based backend & distributed-systems enthusiast
+Backend & distributed-systems enthusiast based in London, UK
 
-I’m a Computer Science student who loves turning complex problems into simple, elegant solutions. My work (and late-night tinkering) lives at the intersection of  
+I’m a Computer Science **graduate** who loves turning complex problems into simple, elegant solutions. My work (and late-night tinkering) lives at the intersection of  
 
 * **Functional programming** — mostly Clojure and Elixir, plus FP-inspired patterns in Python  
 * **Distributed systems & cloud infrastructure** — building resilient, scalable services  
