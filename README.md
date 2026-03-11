@@ -1,6 +1,8 @@
 ### Hey there — I’m Rafael! 👋🌍
 
-Junior backend developer focused on **APIs, automation, integrations, and reliable systems** ⚙️🔗  
+### Hey there — I’m Rafael! 👋🌍
+
+Backend developer focused on **APIs, automation, functional programming, and reliable systems** ⚙️🔗  
 Currently based in **Valdivia, Chile** 🇨🇱
 
 I’m a Computer Science graduate with **First Class Honours** from the University of Westminster 🎓, and I enjoy turning complex workflows into simple, maintainable backend solutions.
@@ -8,14 +10,20 @@ I’m a Computer Science graduate with **First Class Honours** from the Universi
 My main areas of interest are:
 
 - **Backend development** 🐍 — APIs, business logic, validation flows, and service integrations  
-- **Functional programming** 🧪 — especially **Elixir**, along with FP-inspired ways of thinking about clean, resilient software  
-- **Automation** 🤖 — webhooks, workflow design, data validation, and process improvement  
-- **Infrastructure & deployment** ☁️ — Docker, PostgreSQL, domain/DNS setup, SSL, and production-oriented tooling  
+- **Functional programming** 🧪 — especially **Elixir**, Phoenix, and FP-inspired approaches to resilient software  
+- **Automation** 🤖 — webhooks, workflow orchestration, process design, and real-world integrations  
+- **Infrastructure & deployment** ☁️ — Docker, PostgreSQL, domain/DNS setup, SSL, CI/CD, and production-oriented tooling  
 - **System design** 🧠 — building software that is clear, reliable, scalable, and easy to extend  
 
-I’ve built projects using **Python, FastAPI, JavaScript, PostgreSQL, Docker, Stripe, Meta Cloud API, Google Sheets, and Google Calendar** 🚀, and I’m also deeply interested in **Elixir, backend architecture, developer tooling, and scalable systems** ⚡
+A few projects I’m especially proud of:
 
-I like building software that is practical, understandable, and reliable in the real world — and I’m always looking to keep learning through hands-on projects and technical challenges.
+- **LedgerBank API** 💳 — an enterprise-style financial services API built with **Elixir, Phoenix, PostgreSQL, Oban, JWT auth, RBAC, structured error handling, caching, and CI/CD**, designed around clean architecture and production-grade backend patterns  
+- **Tattoo Booking Bot** 💬 — a production-hardened **WhatsApp automation platform** built with **FastAPI, PostgreSQL, Stripe, Google Sheets, Google Calendar, and WhatsApp Cloud API**, with booking workflows, idempotent webhooks, admin tools, reminders, and strong operational safeguards  
+- **OrigenLab** 🧫 — a business website for a laboratory solutions company, built with **Astro + Tailwind CSS** and deployed with real hosting, DNS, SSL, and email/infrastructure setup  
+
+I’ve worked across **Python, FastAPI, Elixir, Phoenix, JavaScript, PostgreSQL, Docker, Stripe, Meta Cloud API, Google Sheets, and Google Calendar** 🚀 with a strong focus on practical engineering, clean implementation, and real-world usability.
+
+I’m especially interested in **backend engineering, Elixir, developer tooling, automation, and scalable systems** 📦⚡ and I’m always looking to keep learning through hands-on projects and technical challenges.
 
 ---
 
