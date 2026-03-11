@@ -1,22 +1,27 @@
-### Hey there — I’m Rafael! 👋🌍  
-Backend & distributed-systems enthusiast based in London, UK 🏙️🇬🇧
+### Hey there — I’m Rafael! 👋🌍
 
-I’m a Computer Science **graduate** who loves turning complex problems into simple, elegant solutions. My work (and late-night tinkering) lives at the intersection of  
+Junior backend developer focused on **APIs, automation, integrations, and reliable systems** ⚙️🔗  
+Currently based in **Valdivia, Chile** 🇨🇱
 
-* **Functional programming** — mostly Clojure ☘️ and Elixir 🧪, plus FP-inspired patterns in Python 🐍  
-* **Distributed systems & cloud infrastructure** — building resilient, scalable services ⚙️☁️  
-* **Python back-ends** — REST & GraphQL APIs 🔗, event-driven architectures ⚡, data pipelines 🚚  
-* **Data science + ML** — grounding design decisions in solid stats 📊 and model-driven insight 🤖🧠  
+I’m a Computer Science graduate with **First Class Honours** from the University of Westminster 🎓, and I enjoy turning complex workflows into simple, maintainable backend solutions.
 
-What you’ll find here: not much yet—this account was recently hacked 😅🔐, so I’m busy restoring and rebuilding!
+My main areas of interest are:
+
+- **Backend development** 🐍 — APIs, business logic, validation flows, and service integrations  
+- **Functional programming** 🧪 — especially **Elixir**, along with FP-inspired ways of thinking about clean, resilient software  
+- **Automation** 🤖 — webhooks, workflow design, data validation, and process improvement  
+- **Infrastructure & deployment** ☁️ — Docker, PostgreSQL, domain/DNS setup, SSL, and production-oriented tooling  
+- **System design** 🧠 — building software that is clear, reliable, scalable, and easy to extend  
+
+I’ve built projects using **Python, FastAPI, JavaScript, PostgreSQL, Docker, Stripe, Meta Cloud API, Google Sheets, and Google Calendar** 🚀, and I’m also deeply interested in **Elixir, backend architecture, developer tooling, and scalable systems** ⚡
+
+I like building software that is practical, understandable, and reliable in the real world — and I’m always looking to keep learning through hands-on projects and technical challenges.
 
 ---
 
-#### Let’s connect 🤝
+### Let’s connect 🤝
 
 - 📧 rafarojasv6@gmail.com  
-- 📞 +44 (0) 7821 734 197  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/rafael-rojas-001906263)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/rafael-rojas-001906263)
 
-Always up for a chat about weird fiction 📚👾, philosophy 🤔, poetry ✒️, politics 🗳️, or neuroscience 🧬.  
-Show me your favourite coffee spot in London ☕ and let’s swap ideas. Cheers! 🥂
+I’m also into **philosophy, literature, poetry, politics, and neuroscience** 📚🧬 — always happy to connect with people building interesting things or thinking deeply about the world.
