@@ -1,7 +1,5 @@
 ### Hey there — I’m Rafael! 👋🌍
 
-### Hey there — I’m Rafael! 👋🌍
-
 Backend developer focused on **APIs, automation, functional programming, and reliable systems** ⚙️🔗  
 Currently based in **Valdivia, Chile** 🇨🇱
 
